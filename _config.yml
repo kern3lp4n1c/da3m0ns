@@ -1,0 +1,32 @@
+title: da3m0ns
+description: Посылаем нахуй заранее.
+author:
+  name: "succ3ss0r"
+  email: "succ3ss0rs@tuta.io"
+  url: "https://kern3lp4n1c.github.io/da3m0ns"
+
+baseurl: /
+
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 3
+paginate_path: /page/:num/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+owner : "succ3ss0r"
+year : "2019"
