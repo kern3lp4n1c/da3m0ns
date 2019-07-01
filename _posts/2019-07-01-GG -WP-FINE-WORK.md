@@ -11,4 +11,3 @@ published: true
 Это финиш. Why u bully me
 ```
 
-<a href="https://kern3lp4n1c.github.io/homepage/">На домашнюю</a>
