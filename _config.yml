@@ -1,5 +1,5 @@
 title: da3m0ns
-description: Посылаем нахуй заранее.
+description: volumetric shit compressor
 author:
   name: "succ3ss0r"
   email: "succ3ss0rs@tuta.io"
@@ -29,6 +29,6 @@ plugins:
 
 # Custom variables
 owner : "succ3ss0r"
-year : "2019"
+year : "2020"
 
 theme: jekyll-theme-hacker
