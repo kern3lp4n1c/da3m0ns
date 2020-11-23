@@ -19,7 +19,7 @@ layout: null
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>{{ site.url }}/{{ post.url }}</link>
-        <link href="{{ site.url }}/da3m0ns/{{ post.url }}"/>
+        <link href="{{ site.url }}{{ post.url }}"/>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       </item>
     {% endfor %}
