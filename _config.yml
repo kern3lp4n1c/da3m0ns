@@ -3,9 +3,9 @@ description: volumetric shit compressor
 author:
   name: "succ3ss0r"
   email: "succ3ss0rs@tuta.io"
-  url: "https://kern3lp4n1c.github.io/da3m0ns"
+  url: "https://makeitharder.ml"
 
-baseurl: /
+baseurl: /da3m0ns
 
 source: .
 destination: ./_site
